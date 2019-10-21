@@ -1,4 +1,4 @@
-#ifdef __PLATE_H_INCLUDED__
+#ifndef __PLATE_H_INCLUDED__
 #define __PLATE_H_INCLUDED__
 class Plate{
  public:

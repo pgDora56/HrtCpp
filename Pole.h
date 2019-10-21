@@ -1,4 +1,4 @@
-#ifdef __POLE_H_INCLUDED__
+#ifndef __POLE_H_INCLUDED__
 #define ___POLE_H_INCLUDED__
 
 #include "Plate.h"
